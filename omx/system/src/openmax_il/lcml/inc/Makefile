@@ -14,3 +14,4 @@ clobber::
 	rm -f $(OMXINCLUDEDIR)/LCML_DspCodec.h
 	rm -f $(OMXINCLUDEDIR)/LCML_Types.h
 	rm -f $(OMXINCLUDEDIR)/usn.h
+	rm -f $(OMXINCLUDEDIR)/perf.h
